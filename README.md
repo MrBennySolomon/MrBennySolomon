@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBennySolomon&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBennySolomon&&show_icons=true&theme=radical)
