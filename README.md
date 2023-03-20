@@ -3,3 +3,4 @@
 * 👋 Hi, My name is Benny
 * 👀 I’m interested in Fullstack technologies and currently looking for a job.
 * 📫 How to reach me: mr.benny.solomon@gmail.com
+* CV - ![https://github.com/MrBennySolomon/CV](https://github.com/MrBennySolomon/CV)
