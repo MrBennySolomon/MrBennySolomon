@@ -3,4 +3,4 @@
 *  Hi, My name is Benny
 *  I’m interested in MERN stack technologies and currently looking for a job.
 *  How to reach me: mr.benny.solomon@gmail.com
-* CV - [https://github.com/MrBennySolomon/CV](https://github.com/MrBennySolomon/CV)
+* CV - [https://github.com/MrBennySolomon/FULLSTACK-CV-2023](https://github.com/MrBennySolomon/FULLSTACK-CV-2023)
